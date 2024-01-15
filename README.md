@@ -28,7 +28,7 @@ This is a simple Todo App created using HTML, CSS, and JavaScript. The app allow
 The app uses the browser's local storage to store and retrieve tasks. This ensures that your tasks are saved even if you close or refresh the page.
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](./todoapp.png)
 
 ## Demo
 [Link to the live demo](https://hg-todo.netlify.app/)
